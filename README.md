@@ -1,5 +1,5 @@
 # Context Menu
-A small prototype right‑click context menu built to practice DOM selection, event handling, and dynamic element positioning.
+A small prototype right‑click context menu I built to practice DOM selection, event handling, and dynamic element positioning.
 
 Built by myself in 2019.
 
