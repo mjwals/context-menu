@@ -1,7 +1,5 @@
 # Context Menu
-A small prototype right‑click context menu I built to practice DOM selection, event handling, and dynamic element positioning.
-
-Built by myself in 2019.
+Created in 2019 as a personal project to strengthen my JavaScript skills, focusing on DOM selection, event handling, and dynamic element positioning.
 
 [See the live demo here](https://www.mjwals.co.uk/contextmenu/)
 ## Tech stack
